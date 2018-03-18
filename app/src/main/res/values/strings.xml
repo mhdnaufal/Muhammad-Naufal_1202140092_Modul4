@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MuhammadNaufal_1202140092_STUDYCASE4</string>
+    <string name="list_mahasiswa">List Nama Mahasiswa</string>
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+    <string name="masukkan_url_gambar">Masukkan URL gambar</string>
+    <string name="klik_untuk_mencari_gambar">Klik untuk mencari gambar</string>
+    <string-array name="list_nama">
+        <item>Poppoy</item>
+        <item>Nessa</item>
+        <item>Naufal</item>
+        <item>Bagong</item>
+        <item>Acong</item>
+        <item>Karin</item>
+        <item>Bagas</item>
+    </string-array>
+</resources>
